@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "AspireAgentObservability.AppHost/AspireAgentObservability.AppHost.csproj"
+  }
+}

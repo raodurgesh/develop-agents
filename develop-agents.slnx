@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/AspireAgenticWorkFlow./">
+    <Project Path="AspireAgenticWorkFlow/AspireAgenticWorkFlow.ApiService/AspireAgenticWorkFlow.ApiService.csproj" />
+    <Project Path="AspireAgenticWorkFlow/AspireAgenticWorkFlow.AppHost/AspireAgenticWorkFlow.AppHost.csproj" Id="9988e3d6-0bf0-4014-a06c-b7aa8217f3e7" />
+    <Project Path="AspireAgenticWorkFlow/AspireAgenticWorkFlow.ServiceDefaults/AspireAgenticWorkFlow.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/AspireAgentObservability/">
+    <Project Path="AspireAgentObservability/AspireAgentObservability.ApiService/AspireAgentObservability.ApiService.csproj" />
+    <Project Path="AspireAgentObservability/AspireAgentObservability.AppHost/AspireAgentObservability.AppHost.csproj" />
+    <Project Path="AspireAgentObservability/AspireAgentObservability.ServiceDefaults/AspireAgentObservability.ServiceDefaults.csproj" />
+  </Folder>
+  <Project Path="AgenticWorkflow/AgenticWorkflow.csproj" Id="809c5d11-4b09-4335-ab27-5ddeabc335e8" />
+  <Project Path="AgentResponseStreaming/AgentResponseStreaming.csproj" />
+  <Project Path="BasicAgentApp/BasicAgentApp.csproj" />
+  <Project Path="BasicTextRagExample/BasicTextRagExample.csproj" Id="cc71fc5c-ac8b-4418-9777-b94ae06abb75" />
+  <Project Path="CustomContextProvider/CustomContextProvider.csproj" Id="867d83cd-5a50-4a68-a37a-97ea7d1d26c5" />
+  <Project Path="FueliXVectorStore/QdrantVectorStore.csproj" Id="30a289dd-d144-4d5e-9e9b-54079f10dbf4" />
+  <Project Path="HumanInLoopAgent/HumanInLoopAgent.csproj" Id="8dddfba6-4f08-4a89-bca5-7719ccece677" />
+  <Project Path="MultiTurnSessionAgent/MultiTurnSessionAgent.csproj" />
+  <Project Path="StructuredOutput/StructuredOutput.csproj" />
+</Solution>

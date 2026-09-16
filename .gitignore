@@ -1,0 +1,40 @@
+# Build results
+**/bin/
+**/obj/
+**/out/
+
+# Compiled outputs
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.log
+
+# VS folders
+.vs/
+.vscode/
+
+# NuGet (keep packages.lock.json if you use it)
+packages/
+**/package/
+
+# Test results
+TestResults/
+coverage*/
+
+# OS cruft
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET / IIS Express
+.vs/config/
+
+# Aspire
+**/.aspire/

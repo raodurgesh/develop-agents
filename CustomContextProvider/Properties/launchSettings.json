@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CustomContextProvider": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MODEL": "gpt-5-mini",
+        "FUELIX_API_KEY": "",
+        "FUELIX_ENDPOINT": "https://api.fuelix.ai/v1"
+      }
+    }
+  }
+}
